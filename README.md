@@ -17,7 +17,7 @@ A fun and interactive **Stone-Paper-Scissors** game built using **HTML**, **CSS*
   ```
 
 ## Author 🧑🏻‍💻
-  Made by Raj Patel  
+  **Made by Raj Patel** 
 - [GitHub](https://github.com/Raj-Patel7807)  
 - [LinkedIn](https://www.linkedin.com/in/raj-patel7807/)
 
